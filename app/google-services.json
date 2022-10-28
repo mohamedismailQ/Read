@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "177580309365",
+    "project_id": "read-c9cb1",
+    "storage_bucket": "read-c9cb1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177580309365:android:b3de284f47ab8ec739b13c",
+        "android_client_info": {
+          "package_name": "com.fakestar.read"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "177580309365-v6nhid2neqk4idj9qhnou0bjtkqmksli.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fakestar.read",
+            "certificate_hash": "ffabeae0c390b7a50fe42d9cbc18d4fc62655b35"
+          }
+        },
+        {
+          "client_id": "177580309365-65kb606igfnosi34o7vethh15bq6b94k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmzpwDNdNg1DRNQTN3h216px_pj6VaQO8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "177580309365-65kb606igfnosi34o7vethh15bq6b94k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

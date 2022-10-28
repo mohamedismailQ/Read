@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Read</string>
+    <string name="contentDescription">Logo of the app person holding book and the logo say to you reading changes you</string>
+    <string name="hello_reader">Hello Reader</string>
+    <string name="login_to_save_what_you_read">Login To Save What You Read</string>
+    <string name="email">Email</string>
+    <string name="forget_password">Forget Password</string>
+    <string name="login">Login</string>
+    <string name="no_account">Don\'t have an account? SignUp</string>
+    <string name="password_hint">Password</string>
+    <string name="create_account">Create Account</string>
+    <string name="register">Register</string>
+    <string name="user_dashboard">User Dashboard</string>
+    <string name="account_example_com">Account@example.com</string>
+</resources>
